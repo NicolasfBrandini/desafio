@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+<h1 align="center"> Desafio Front-end </h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+![imagem da tela do site](https://github.com/NicolasfBrandini/desafio/assets/128758433/3f3d52ff-e1b0-484d-904b-d20a443a8f80)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<h1>Tecnologias Utilizadas</h1>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<strong>React:</strong>
 
-### `npm test`
+React é uma biblioteca JavaScript de código aberto amplamente utilizada para criar interfaces de usuário interativas e reativas em aplicações web. Desenvolvido pelo Facebook, ele permite o desenvolvimento de componentes reutilizáveis para construir interfaces complexas de maneira eficiente, seguindo o paradigma de programação declarativa.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+https://react.dev/
 
-### `npm run build`
+<strong>Axios:</strong>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Axios é uma biblioteca JavaScript para fazer requisições HTTP a partir de navegadores ou servidores Node.js. É amplamente utilizada para facilitar a comunicação com APIs, fornecendo uma interface simples e suporte a promessas, tornando as solicitações assíncronas mais convenientes e legíveis.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+https://axios-http.com/
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<strong> Tailwind CSS:</strong>
 
-### `npm run eject`
+Tailwind CSS é um framework de design de código aberto que simplifica a criação de interfaces web, permitindo estilização rápida com classes HTML. Ele se destaca pela abordagem utility-first, oferecendo um conjunto de classes predefinidas para estilização flexível e eficiente, sem a necessidade de escrever CSS personalizado extensivo.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+https://tailwindcss.com/
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<h1>Instalação</h1>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<strong>Clone o repositório</strong>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+git clone https://github.com/NicolasfBrandini/desafio
 
-## Learn More
+<strong>Acesse o diretório do projeto</strong>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+cd seu-projeto
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<strong>Instale as dependências</strong>
 
-### Code Splitting
+npm install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<h1>Iniciar</h1>
 
-### Analyzing the Bundle Size
+<strong>Para iniciar o servidor de desenvolvimento</strong>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+npm start
