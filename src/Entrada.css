@@ -112,7 +112,7 @@ section::after {
   width: 100px;
   height: 3px;
   background: linear-gradient(270deg, transparent, #0f13ff, #ff0000, #0fff0f);
-  animation: animates 2s linear infinite;
+  animation: animetes 2s linear infinite;
 }
 
 @keyframes animetes {
